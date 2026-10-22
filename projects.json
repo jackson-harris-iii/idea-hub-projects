@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Idea Hub",
+    "repository": "https://github.com/jackson-harris-iii/idea-hub",
+    "license": "MIT (application code; see NOTICE.md)",
+    "status": "scaffold",
+    "maintainer": "jackson-harris-iii"
+  },
+  {
+    "name": "Idea Hub Sac",
+    "url": "https://ideahubsac.org",
+    "repository": "https://github.com/jackson-harris-iii/ideahub-sac",
+    "license": "MIT (application code; see NOTICE.md)",
+    "status": "pilot",
+    "maintainer": "jackson-harris-iii"
+  },
+  {
+    "name": "Glass Onion / Sac Spending Tracker",
+    "url": "https://glassonion-sac.netlify.app/",
+    "repository": null,
+    "license": null,
+    "status": "prototype",
+    "maintainer": null
+  },
+  {
+    "name": "Mercy Holistic Connect",
+    "url": "https://mercy-holistic-connect.replit.app/",
+    "repository": null,
+    "license": null,
+    "status": "prototype",
+    "maintainer": null
+  }
+]
